@@ -1,0 +1,14 @@
+Main:
+  ✔ Wyświetlanie i definiowanie przelicznika walutowego (1 EURO = x PLN) @done(19-11-11 14:55)
+  ✔ Dodawanie transakcji walutowej: definiowana nazwa i kwota w euro @done(19-11-11 14:55)
+  ✔ Lista dodanych transakcji walutowych: wyświetlanie dodanych wcześniej transakcji (nazwa, kwota w euro, automatycznie wyliczona kwota w PLN) @done(19-11-11 14:55)
+  ✔ Automatyczne przeliczanie kwot w PLN dla wcześniej dodanych transakcji po zmianie przelicznika walutowego @done(19-11-11 14:55)
+  ✔ Usuwanie transakcji z listy @done(19-11-11 14:55)
+  ✔ Suma wszystkich transakcji @done(19-11-11 14:55)
+  ✔ Wyświetlanie osobno, obok listy, transakcji o największej kwocie (nazwa, kwota w PLN, kwota w euro) @done(19-11-11 15:30)
+  ✔ Zaokrąglanie wartości do 2 miejsc po przecinku @done(19-11-11 14:55)
+  ✔ Wszystkie ww. informacje widoczne jednocześnie na ekranie @done(19-11-11 14:56)
+  ✔ Odświeżanie danych na żywo, w momencie modyfikacji @done(19-11-11 14:56)
+  ✔ Aplikacja powinna zostać napisana za pomocą ECMAScript 2015 lub nowszego, z użyciem bibliotek React i Redux @done(19-11-11 14:56)
+  ✔ Wymagane wsparcie przeglądarek: najnowszy Chrome lub Firefox @done(19-11-11 14:56)
+  ☐ Pokrycie kodu testami jednostkowymi będzie dodatkowym atutem

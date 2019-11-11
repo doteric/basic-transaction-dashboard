@@ -1,0 +1,46 @@
+.transactionrow {
+  display: flex;
+  border-bottom: 1px solid #555;
+  font-size: 18px;
+  padding: 8px 0;
+}
+.transactionheader {
+  font-weight: 500;
+}
+
+.transactionrow div {
+  padding: 0 20px;
+  border-right: 1px solid #ddd;
+}
+.transactionrow div:last-of-type {
+  border-right: 0;
+}
+
+.transactionrow .teuro::after {
+  content: " EUR";
+  font-size: 10px;
+}
+.transactionrow .tpln::after {
+  content: " PLN";
+  font-size: 10px;
+}
+.transactionrow button {
+  background-color: #fff;
+  border: 1px solid #333;
+  color: #333;
+  font-size: 16px;
+  padding: 4px 8px;
+  cursor: pointer;
+}
+.transactionrow button:hover {
+  background-color: #333;
+  color: #fff;
+}
+.transactionrow .removebutton {
+  border: 1px solid #e70d0d;
+  color: #e70d0d;
+}
+.transactionrow .removebutton:hover {
+  background-color: #e70d0d;
+  color: #fff;
+}

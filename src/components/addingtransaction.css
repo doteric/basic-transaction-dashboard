@@ -1,0 +1,28 @@
+.newtransholder {
+  align-items: center;
+  background-color: #333;
+  color: #fff;
+}
+
+.newtransholder .col {
+  margin: 0 12px;
+}
+
+.newtransholder input {
+  margin-left: 10px;
+  font-size: 16px;
+  padding: 4px;
+}
+
+.newtransholder button {
+  background-color: #333;
+  border: 1px solid #fff;
+  color: #fff;
+  font-size: 18px;
+  padding: 4px 20px;
+  cursor: pointer;
+}
+.newtransholder button:hover {
+  background-color: #fff;
+  color: #333;
+}
