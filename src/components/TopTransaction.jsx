@@ -12,7 +12,7 @@ export class TopTransaction extends Component {
       else {
         return prev;
       }
-    });
+    }, {id: 0, name: "", euro: 0});
     return (
       <div className="sideholder">
         <h3>Top transaction</h3>
