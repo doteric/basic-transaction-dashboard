@@ -1,9 +1,9 @@
 import React from 'react';
 import './App.css';
-import CurrencyExchangeRate from "./components/CurrencyExchangeRate";
-import AddingTransaction from "./components/AddingTransaction";
-import TransactionsList from "./components/TransactionsList";
-import TopTransaction from "./components/TopTransaction";
+import CurrencyExchangeRate from "./components/CurrencyExchangeRate/CurrencyExchangeRate";
+import AddingTransaction from "./components/AddingTransaction/AddingTransaction";
+import TransactionsList from "./components/TransactionsList/TransactionsList";
+import TopTransaction from "./components/TopTransaction/TopTransaction";
 
 function App() {
   return (

@@ -1,6 +1,6 @@
 import React, { Component } from 'react'
 import { connect } from 'react-redux'
-import './css/toptransaction.css'
+import './toptransaction.css'
 
 export class TopTransaction extends Component {
   render() {

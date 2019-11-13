@@ -1,6 +1,6 @@
 import React, { Component } from 'react'
 import { connect } from 'react-redux'
-import './css/currencyexchangerate.css'
+import './currencyexchangerate.css'
 
 export class CurrencyExchangeRate extends Component {
   changeRate(value) {

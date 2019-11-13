@@ -1,5 +1,5 @@
 import React, { Component } from 'react'
-import './css/addingtransaction.css'
+import './addingtransaction.css'
 import { connect } from "react-redux";
 
 class AddingTransaction extends Component {
